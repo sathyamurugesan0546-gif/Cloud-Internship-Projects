@@ -52,9 +52,6 @@ To create an Amazon S3 bucket and perform basic file operations such as upload, 
 * Successfully deleted the S3 bucket
 * Verified no buckets remain
 
-📸 Screenshot:
-![Delete Bucket](Step-5-Delete-Bucket.png)
-
 ---
 
 ## 🎯 Outcome
